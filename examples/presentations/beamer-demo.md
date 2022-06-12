@@ -1,8 +1,21 @@
 ---
 title: Beamer example
 author: Leah Lackner
-theme: Copenhagen
-date: June 12, 2022
+institute: "Some place"
+topic: "Beamer example"
+theme: "Frankfurt"
+colortheme: "beaver"
+fonttheme: "professionalfonts"
+mainfont:
+fontsize: 11pt
+urlcolor: red
+linkstyle: bold
+aspectratio: 169
+titlegraphic:
+logo:
+date:
+section-titles: false
+toc: true
 ---
 
 # Tuque siqua agmen Acoete tale coeperunt decet
